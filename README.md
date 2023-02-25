@@ -1,4 +1,12 @@
-### Hi there 👋
+### :sparkles: Welcome! I'm Briana Wright (she/her)👋 :sparkles:
+
+:star2: Full Stack Software Engineer :star2:
+
+
+
+
+
+
 
 <!--
 **brianaleew/brianaleew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +21,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+:sparkles: All About Me :sparkles:
+
+
+:star2:
+:star2:
+:star2:
+:star2:
 -->
