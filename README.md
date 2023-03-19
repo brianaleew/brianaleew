@@ -3,6 +3,7 @@
 :star2: Full Stack Software Engineer :star2: <br>
 :mortar_board: General Assembly Software Engineering Immersive Grad <br>
 :envelope: Contact Me : briana.leewright98@gmail.com <br>
+My Portfolio: https://brianaleew.github.io/
 
 As a former Social Worker, I have always loved solving challenges, helping people and learning new things. Most importantly, I have seen and understood the power of constant change. For these reasons the tech industry has always naturally caught my eye, but now it has my full attention. <br>
 
